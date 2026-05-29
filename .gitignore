@@ -1,0 +1,7 @@
+# Entorno virtual local
+.venv/
+
+# Artefactos de ejecución
+__pycache__/
+.ipynb_checkpoints/
+_test_run.ipynb
